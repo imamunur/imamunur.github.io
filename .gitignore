@@ -1,0 +1,8 @@
+.DS_Store
+*.docx
+docs/
+_bibliography/
+_config.yml
+_data/
+_pages/
+Thumbs.db
