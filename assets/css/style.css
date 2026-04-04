@@ -77,10 +77,10 @@ img { max-width: 100%; display: block; }
 .navbar .site-title:hover { opacity: .8; color: #fff; }
 .nav-credentials {
   font-weight: 400;
-  font-size: 12px;
+  font-size: 11.5px;
   opacity: .6;
   letter-spacing: .2px;
-  margin-left: 2px;
+  margin-left: 3px;
 }
 
 .nav-links { display: flex; gap: 4px; list-style: none; }
@@ -452,7 +452,7 @@ tr:last-child td { border-bottom: none; }
   .profile-photo-wrapper { width: 100%; display: flex; flex-direction: column; align-items: center; }
   .profile-photo { width: 160px; height: 160px; margin: 0 auto; }
   .profile-meta { text-align: center; width: 100%; }
-  .nav-credentials { display: none; }
+  .nav-credentials { font-size: 10px; }
   .social-links { justify-content: center; }
   .interest-tags { justify-content: center; }
   .stats-row { justify-content: center; }
